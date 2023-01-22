@@ -1,0 +1,1 @@
+for l in *CRLF*; do mv "$l" "$(head -1 $l)".tmptxt; done
