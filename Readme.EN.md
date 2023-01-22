@@ -5,3 +5,4 @@ I offer these scripts (ugly but functional) under GNU free licence.
 
 In order to work, the raw memory dumps files must be placed in the same folder that the scripts provided.
 And also be named with lower-case extension .txt
+Launch the script extraction-progs-machines.sh (either under Linux, either under Windows using WSL or Cygwin)
